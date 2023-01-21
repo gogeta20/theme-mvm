@@ -144,7 +144,7 @@
     "editorBracketPairGuide.activeBackground6": "#cfa25f",
 
     "selection.background": "#6f7bb635",
-    "editor.background": "#24283b",
+    "editor.background": "#1e1e1e", //24283b
     "editor.foreground": "#a9b1d6",
     "editor.foldBackground": "#181b294a",
     "editorLink.activeForeground": "#a9b1d6",
@@ -578,7 +578,7 @@
         "entity.name.function.blade"
       ],
       "settings": {
-        "foreground": "#2ac3de"
+        "foreground": "#2ac3de" //2ac3de mvm
       }
     },
     {
@@ -707,7 +707,7 @@
         "variable.other.object"
       ],
       "settings": {
-        "foreground": "#c0caf5"
+        "foreground": "#46b5ff" // 007acc mvm c0caf5
       }
     },
     {
@@ -783,7 +783,7 @@
         "storage.type.cs"
       ],
       "settings": {
-        "foreground": "#7aa2f7"
+        "foreground": "#7aa2f7" // 7aa2f7 mvm
       }
     },
     {
@@ -798,7 +798,7 @@
         "meta.object-literal entity.name.function"
       ],
       "settings": {
-        "foreground": "#7aa2f7"
+        "foreground": "#d8db4d" // 7aa2f7
       }
     },
     {
